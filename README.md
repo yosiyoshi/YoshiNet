@@ -16,7 +16,14 @@ https://twitter.com/yosiyos38795255/status/984053427033403393
 
 In the episode 15, the duration is longer than 1000.
 
-# Description
+# 2, mnist_recog.py
+Highest score of
+
+"step 1700, lr=0.01 ,training accuracy 0.9903"
+
+and requires an image named "input_number.jpg" as default.
+
+# Description for 1, ddqn.py
 Abstract of DDQN(Double Deep-Q-Network):
 
 
