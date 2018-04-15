@@ -14,7 +14,7 @@ Best result on:
 https://twitter.com/yosiyos38795255/status/984053427033403393
 
 
-In the episode 15, the duration is higher than 1000.
+In the episode 15, the duration is longer than 1000.
 
 # Description
 Abstract of DDQN(Double Deep-Q-Network):
