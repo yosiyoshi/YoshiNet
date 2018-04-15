@@ -23,6 +23,9 @@ Highest score of
 
 and requires an image named "input_number.jpg" as default.
 
+Best Result on:
+https://twitter.com/yosiyos38795255/status/985522879017070592
+
 # Description for 1, ddqn.py
 Abstract of DDQN(Double Deep-Q-Network):
 
