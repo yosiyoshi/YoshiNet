@@ -1,4 +1,4 @@
-# YoshiNet
+/# YoshiNet
 "YoshiNet" is a name of Deep Learning work collection for Yosiyoshi's works.
 
 # Requirements
@@ -10,14 +10,19 @@ Software
 
 /TensorFlow
 
+/PyTorch
 
 Knowledge
 
 
-/TensorFlow Documentation
+/TensorFlow
+
+and
+
+/PyTorch Documentation
 
 
-Almost based on it, but I added some functions.
+Almost based on them, but I added some functions.
 
 # 1, ddqn.py
 Based on "PyTorch Intermediate Tutorials" on the website as below:
