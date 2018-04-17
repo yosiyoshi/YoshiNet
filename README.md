@@ -1,4 +1,4 @@
-/# YoshiNet
+# YoshiNet
 "YoshiNet" is a name of Deep Learning work collection for Yosiyoshi's works.
 
 # Requirements
