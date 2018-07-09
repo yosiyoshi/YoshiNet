@@ -49,6 +49,11 @@ and requires an image named "input_number.jpg" as default.
 Best Result on:
 https://twitter.com/yosiyos38795255/status/985522879017070592
 
+# 3, gru_zh.py
+
+Best result on:
+https://twitter.com/yosiyos38795255/status/1016291441356636160
+
 # Description for 1, ddqn.py
 Abstract of DDQN(Double Deep-Q-Network):
 
