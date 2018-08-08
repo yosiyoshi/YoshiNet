@@ -4,23 +4,21 @@
 # Requirements
 Software
 
-
 /Python 3.x
-
 
 /TensorFlow
 
 /PyTorch
 
-Knowledge
+/gensim
 
+Knowledge
 
 /TensorFlow
 
 and
 
 /PyTorch Documentation
-
 
 Almost based on them, but I added some functions.
 
@@ -53,6 +51,11 @@ https://twitter.com/yosiyos38795255/status/985522879017070592
 
 Best result on:
 https://twitter.com/yosiyos38795255/status/1016291441356636160
+
+# 4, 
+
+Sample code "poincare_embedding_zh.py" result on:
+https://twitter.com/yosiyos38795255/status/1026995495321759744
 
 # Description for 1, ddqn.py
 Abstract of DDQN(Double Deep-Q-Network):
