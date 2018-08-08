@@ -52,7 +52,7 @@ https://twitter.com/yosiyos38795255/status/985522879017070592
 Best result on:
 https://twitter.com/yosiyos38795255/status/1016291441356636160
 
-# 4, 
+# 4, poincare_embedding_zh/_en.py (2 code files)
 
 Sample code "poincare_embedding_zh.py" result on:
 https://twitter.com/yosiyos38795255/status/1026995495321759744
