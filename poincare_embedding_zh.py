@@ -1,7 +1,7 @@
 """
 Created on Tue Aug  7 10:01:07 2018
 
-@author: YosiYoshi（李善）
+@author: YosiYoshi
 
 Poincare embedding algorithm about Bilibili恶搞(MAD).
 """
