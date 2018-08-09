@@ -2,7 +2,7 @@
 """
 Created on Tue Aug  7 10:01:07 2018
 
-@author: YosiYoshi/李善(Li Shan)
+@author: YosiYoshi
 
 --Sample Result--
 Distance between Cognitive Science and Natural Language Processing:  1.1503508546374988
