@@ -57,6 +57,62 @@ https://twitter.com/yosiyos38795255/status/1016291441356636160
 Sample code "poincare_embedding_zh.py" result on:
 https://twitter.com/yosiyos38795255/status/1026995495321759744
 
+# 5, poincare_embedding_jp.py "大学東方夏の自由研究"
+
+東方カップリングの階層表現学習におけるPoincaré Embeddingsの応用
+
+Poincaré Embeddings for Learning Hierarchical Representations of Touhou Coupling 
+
+@Yosiyoshi: 南秘
+
+KW: Touhou Project, Poincaré Embeddings, Hierarchical Representations, Machine Learning
+
+東方projectのキャラクターは公式設定、および二次創作によりカップリングが複数存在する。
+[M Nickel and D Kiela, 2017]による
+"Poincaré Embeddings for Learning Hierarchical Representations"
+の触発を受け、Poincaré Embeddingsを東方カップリングの階層表現学習に応用した。
+
+## 実験方法
+
+[Niconico大百科, 2018]の"東方projectのカップリング一覧:キャラクター別"
+(http://dic.nicovideo.jp/a/%E6%9D%B1%E6%96%B9project%E3%81%AE%E3%82%AB%E3%83%83%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%E4%B8%80%E8%A6%A7)
+
+より、n=['博麗霊夢','霧雨魔理沙','東風谷早苗','アリス・マーガトロイド']の四名に係るカップリングを
+任意に抽出した。カップリング相手をm=[任意の文字列]とし、カップリングをdata=(n,m)と定義する。
+
+dataをgensim.models.poincare.PoincareModelに入力し、epoch=50で学習する。
+学習結果はPoincaré双曲面上にプロットされる。
+
+## 結果
+
+れいまりの距離: 0.9867836799596653
+
+まりありの距離: 1.193140088539443
+
+れいありの距離: 1.33561024791922
+
+れいれみの距離: 0.8767354255212357
+
+れいさとの距離: 0.5425000174999931
+
+まりれみの距離: 0.22278990408263546
+
+まりさとの距離: 0.4602781802364823
+
+さなれみの距離: 0.18275833633037145
+
+さなさとの距離: 0.39465960366370423
+
+ありれみの距離: 0.9773531395801837
+
+ありさとの距離: 1.0359620245638737
+
+## 結論
+
+上記結果より、れいさと（霊夢・さとり）、まりれみ（魔理沙・レミリア）、まりさと（魔理沙・さとり）、
+さなれみ（早苗・レミリア）、さなれみ（早苗・レミリア）、さなさと（早苗・さとり）のカップリング両者間における距離
+が特に小さい。したがって、レミリア・スカーレットと古明地さとりは上記四名とカップリングにおいて親和的である。
+
 # Description for 1, ddqn.py
 Abstract of DDQN(Double Deep-Q-Network):
 
