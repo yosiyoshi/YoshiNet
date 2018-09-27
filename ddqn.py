@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Jan 17 16:09:28 2018
+-Koishi-
 
 @author: Yosiyoshi
 Based on "PyTorch Intermediate Tutorials" on the website as below:
