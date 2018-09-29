@@ -8,6 +8,8 @@ Software
 
 /TensorFlow
 
+/Chainer
+
 /PyTorch
 
 /gensim
@@ -22,7 +24,7 @@ and
 
 Almost based on them, but I added some functions.
 
-# 1, ddqn.py
+# 1, ddqn/ddqn2.py (2 code files)
 Based on "PyTorch Intermediate Tutorials" on the website as below:
 
 
@@ -34,8 +36,11 @@ The author modified it and remade it into a Double Deep-Q-Learning Neural Networ
 Best result on: 
 https://twitter.com/yosiyos38795255/status/984053427033403393
 
+The same picture is shown as "highestscore.png" of ddqn.py("Koishi") scoring.
 
 In the episode 15, the duration is longer than 1000.
+
+The competition between ddqn.py("Koishi") and ddqn2.py("Satori") is shown on competition.png .
 
 # 2, mnist_recog.py
 Highest score of
