@@ -12,6 +12,8 @@ Software
 
 /PyTorch
 
+/CatBoost
+
 /gensim
 
 Knowledge
@@ -62,7 +64,11 @@ https://twitter.com/yosiyos38795255/status/1016291441356636160
 Sample code "poincare_embedding_zh.py" result on:
 https://twitter.com/yosiyos38795255/status/1026995495321759744
 
-# 5, poincare_embedding_jp.py "大学東方夏の自由研究"
+# 5, cbcls.py
+
+Tutorial code for CatBoost(Yandex) array-like data prediction of Machine Learning.
+
+# 6, poincare_embedding_jp.py "大学東方夏の自由研究"
 
 東方カップリングの階層表現学習におけるPoincaré Embeddingsの応用
 
